@@ -1,0 +1,17 @@
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+D:\Visual Studio Examples\C#\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Srbislav\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\bane\Desktop\srba\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\bane\Desktop\srba\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\bane\Desktop\srba\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
